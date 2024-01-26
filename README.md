@@ -1,7 +1,7 @@
 # Durham-CS-Open-Day-Challenge
 A game which helps the visitor learn about CS department and generate interest in our department by experiencing interesting puzzles, exquisite building and Immersive story.
 
-Please download the installation zip file through the following link：[download](https://1drv.ms/u/s!AlAOIOBwskGHwUmfohK9czWqqY1o?e=5ZnCz0 )
+Please download the installation zip file through the following link：[download](https://1drv.ms/u/s!AlAOIOBwskGHwUrBQjZWOHT-83ic?e=HclMsW)
 
 Our introduction video:[video](https://www.youtube.com/watch?v=3gDpF5CvwYI)
 
